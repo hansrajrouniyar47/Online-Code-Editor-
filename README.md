@@ -17,7 +17,7 @@ Open in your favorite editor for me it is VS Code  and start with `npm start`.<b
 Install the necessary modules like for working with code functionalities as syntax highlighting code mirror can be used and can be installed as  `npm i codemirror react-codemirror2`.<br>
 Similarly, you can go for other packages as well according to addition of functionalities<br>
 
-## Quick Insights 
+## 📫Quick Insights 
 ### Use State
 html,setHtml
 css,setCss
