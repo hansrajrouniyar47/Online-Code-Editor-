@@ -19,18 +19,18 @@ Similarly, you can go for other packages as well according to addition of functi
 
 ## 📫Quick Insights 
 ### Use State
-html,setHtml
-css,setCss
-js,setJs
-srcDoc,setSrcDoc
-file,setFile
+html,setHtml<br>
+css,setCss<br>
+js,setJs<br>
+srcDoc,setSrcDoc<br>
+file,setFile<br>
 
 ### Use Effect
 Timeout
 
 ### SetsrcDoc
-html
-css 
+html<br>
+css <br>
 js
 
 
