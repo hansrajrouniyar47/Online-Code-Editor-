@@ -9,10 +9,30 @@ For rendering the file of Html, Css, Js with user's input, useState hook has bee
 Minimalistic design has been kept so as to avoid distractions and noises.
 
 ## 📫How to begin with installation and packages:
-You can create your react app with `npx create-react-app your-app-name` for me it is `Online-Code-Editor`.<br>
-Open in your favorite editor for me it isv VS Code  and start with `npm start`.<br>
-Install the necessary modules `npm i codemirror react-codemirror2`.<br>
-With these packages, you are good to go for building the code-editor.<br>
+With `npm install` you will be able to install all the required libraries and modules.<br>
+You can then begin with `npm start`.<br>
+### If you want to build a code editor from scratch supporting other languages too, you can begin as:
+You can create your react app with `npx create-react-app your-app-name` for me it was `Online-Code-Editor`.<br>
+Open in your favorite editor for me it is VS Code  and start with `npm start`.<br>
+Install the necessary modules like for working with code functionalities as syntax highlighting code mirror can be used and can be installed as  `npm i codemirror react-codemirror2`.<br>
+Similarly, you can go for other packages as well according to addition of functionalities<br>
+
+## Quick Insights 
+### Use State
+html,setHtml
+css,setCss
+js,setJs
+srcDoc,setSrcDoc
+file,setFile
+
+### Use Effect
+Timeout
+
+### SetsrcDoc
+html
+css 
+js
+
 
 
 
