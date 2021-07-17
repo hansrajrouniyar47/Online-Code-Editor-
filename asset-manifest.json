@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Online-Code-Editor-/static/css/main.9dba590c.chunk.css",
+    "main.js": "/Online-Code-Editor-/static/js/main.03c27b89.chunk.js",
+    "main.js.map": "/Online-Code-Editor-/static/js/main.03c27b89.chunk.js.map",
+    "runtime-main.js": "/Online-Code-Editor-/static/js/runtime-main.fe5c11b5.js",
+    "runtime-main.js.map": "/Online-Code-Editor-/static/js/runtime-main.fe5c11b5.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/Online-Code-Editor-/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.06cc90ce.chunk.js": "/Online-Code-Editor-/static/js/2.06cc90ce.chunk.js",
+    "static/js/2.06cc90ce.chunk.js.map": "/Online-Code-Editor-/static/js/2.06cc90ce.chunk.js.map",
+    "index.html": "/Online-Code-Editor-/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/Online-Code-Editor-/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.9dba590c.chunk.css.map": "/Online-Code-Editor-/static/css/main.9dba590c.chunk.css.map",
+    "static/js/2.06cc90ce.chunk.js.LICENSE.txt": "/Online-Code-Editor-/static/js/2.06cc90ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe5c11b5.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.06cc90ce.chunk.js",
+    "static/css/main.9dba590c.chunk.css",
+    "static/js/main.03c27b89.chunk.js"
+  ]
+}
